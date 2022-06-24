@@ -1,16 +1,6 @@
-# animator2
+# Galaxy Planet App | Animation
 
-A new Flutter project.
+This is a simply info app of galaxy planets with best animation and UI/UX
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![animation-2](https://user-images.githubusercontent.com/90972632/175451374-b89888f6-98fc-42fa-83a6-95c952f57b28.gif)
